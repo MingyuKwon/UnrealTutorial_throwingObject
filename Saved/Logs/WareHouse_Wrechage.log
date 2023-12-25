@@ -4380,3 +4380,319 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.12.25-05.35.29:508][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 2.57 sec)
 [2023.12.25-05.35.29:510][758]AssetCheck: New page: 에셋 저장:  Minimal_Default
 [2023.12.25-05.35.29:510][758]LogContentValidation: Display: /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default 유효성 검사 중
+[2023.12.25-05.45.29:576][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.12.25-05.45.29:604][711]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7
+[2023.12.25-05.45.29:604][711]LogSavePackage: Moving 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Minimal_Default_Auto79EACBD5B4B9A65A588E7EE990341E681.tmp' to 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap'
+[2023.12.25-05.45.29:605][711]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap is in the /Temp path, will not scan.
+[2023.12.25-05.45.29:605][711]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7 is in the /Temp path, will not scan.
+[2023.12.25-05.45.29:605][711]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7 is in the /Temp path, will not scan.
+[2023.12.25-05.45.29:605][711]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.039
+[2023.12.25-05.45.29:605][711]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2023.12.25-05.51.32:124][799]LogDerivedDataCache: C:/Users/kmgmg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.069 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1423 files in 2385 folders with total size 88 MiB.
+[2023.12.25-05.52.19:964][178]Cmd: TRANSACTION UNDO
+[2023.12.25-05.52.19:964][178]LogEditorTransaction: Undo 엘리먼트 이동
+[2023.12.25-05.54.45:488][ 81]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: ================================================
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Total job queries 294, among them cache hits 67 (22.79%)
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Tracking 218 distinct input hashes that result in 111 distinct outputs (50.92%)
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: RAM used: 4.96 MiB of 1.60 GiB budget. Usage: 0.30%
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Shaders Compiled: 218
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Jobs assigned 218, completed 218 (100%)
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Average time worker was idle: 760.38 s
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Time job spent in pending queue: average 1.77 s, longest 4.64 s
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Job execution time: average 1.14 s, max 4.35 s
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Job life time (pending + execution): average 2.91 s, max 5.68
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Shader code size: average 35.335 KiB, min 3.559 KiB, max 72.324 KiB
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.80 s
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Jobs were issued in 166 batches (only local compilation was used), average 1.31 jobs/batch
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Average processing rate: 17.03 jobs/sec
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Total thread time: 68.351 s
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Total thread preprocess time: 6.805 s
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Percentage time preprocessing: 9.96%
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Effective parallelization: 5.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 0.67 sec, max 0.98 sec, min 0.32 sec)
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 0.66 sec, max 1.03 sec, min 0.26 sec)
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    4 times, average 0.66 sec, max 1.01 sec, min 0.24 sec)
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 0.61 sec, max 0.62 sec, min 0.60 sec)
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.60 sec, max 0.97 sec, min 0.28 sec)
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.39% of total time (compiled   18 times, average 0.36 sec, max 0.89 sec, min 0.21 sec)
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.89% of total time (compiled   16 times, average 0.25 sec, max 0.38 sec, min 0.18 sec)
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.66% of total time (compiled   16 times, average 0.24 sec, max 0.36 sec, min 0.17 sec)
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 5.35% of total time (compiled   14 times, average 0.26 sec, max 0.39 sec, min 0.19 sec)
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 4.90% of total time (compiled   14 times, average 0.24 sec, max 0.31 sec, min 0.20 sec)
+[2023.12.25-05.54.49:988][537]LogShaderCompilers: Display: ================================================
+[2023.12.25-05.57.43:042][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.25-05.57.43:072][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8
+[2023.12.25-05.57.43:072][ 97]LogSavePackage: Moving 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Minimal_Default_Auto8BE2315BB46EBBB07CF31F1811711C260.tmp' to 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.umap'
+[2023.12.25-05.57.43:074][ 97]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.umap is in the /Temp path, will not scan.
+[2023.12.25-05.57.43:074][ 97]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8 is in the /Temp path, will not scan.
+[2023.12.25-05.57.43:074][ 97]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8 is in the /Temp path, will not scan.
+[2023.12.25-05.57.43:074][ 97]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.045
+[2023.12.25-05.57.43:074][ 97]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2023.12.25-06.07.43:495][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.12.25-06.07.43:525][324]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9
+[2023.12.25-06.07.43:525][324]LogSavePackage: Moving 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Minimal_Default_Auto9F84EED074C4A30DD5B2A9EAD780F5D0E.tmp' to 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.umap'
+[2023.12.25-06.07.43:526][324]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.umap is in the /Temp path, will not scan.
+[2023.12.25-06.07.43:526][324]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9 is in the /Temp path, will not scan.
+[2023.12.25-06.07.43:526][324]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9 is in the /Temp path, will not scan.
+[2023.12.25-06.07.43:526][324]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.041
+[2023.12.25-06.07.43:526][324]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2023.12.25-06.12.43:432][112]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.12.25-06.12.43:432][112]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.12.25-06.12.43:432][112]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_23
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: ================================================
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Total job queries 304, among them cache hits 67 (22.04%)
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Tracking 228 distinct input hashes that result in 114 distinct outputs (50.00%)
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: RAM used: 5.28 MiB of 1.60 GiB budget. Usage: 0.32%
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Shaders Compiled: 228
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Jobs assigned 228, completed 228 (100%)
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Average time worker was idle: 741.45 s
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Time job spent in pending queue: average 1.70 s, longest 4.64 s
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 4.35 s
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Job life time (pending + execution): average 2.80 s, max 5.68
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Shader code size: average 35.287 KiB, min 3.559 KiB, max 72.324 KiB
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.29 s
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Jobs were issued in 176 batches (only local compilation was used), average 1.30 jobs/batch
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Average processing rate: 14.91 jobs/sec
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Total thread time: 70.194 s
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Total thread preprocess time: 7.047 s
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Percentage time preprocessing: 10.04%
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Effective parallelization: 4.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 0.67 sec, max 0.98 sec, min 0.32 sec)
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 0.66 sec, max 1.03 sec, min 0.26 sec)
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    4 times, average 0.66 sec, max 1.01 sec, min 0.24 sec)
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 0.61 sec, max 0.62 sec, min 0.60 sec)
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.60 sec, max 0.97 sec, min 0.28 sec)
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.15% of total time (compiled   18 times, average 0.36 sec, max 0.89 sec, min 0.21 sec)
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.73% of total time (compiled   16 times, average 0.25 sec, max 0.38 sec, min 0.18 sec)
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.51% of total time (compiled   16 times, average 0.24 sec, max 0.36 sec, min 0.17 sec)
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 5.21% of total time (compiled   14 times, average 0.26 sec, max 0.39 sec, min 0.19 sec)
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 4.77% of total time (compiled   14 times, average 0.24 sec, max 0.31 sec, min 0.20 sec)
+[2023.12.25-06.12.43:865][148]LogShaderCompilers: Display: ================================================
+[2023.12.25-06.12.45:262][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.12.25-06.12.45:262][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.12.25-06.12.45:263][294]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_24
+[2023.12.25-06.12.51:099][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.12.25-06.12.51:099][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.12.25-06.12.51:100][893]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_25
+[2023.12.25-06.12.52:914][ 83]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.12.25-06.12.52:914][ 83]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.12.25-06.12.52:916][ 83]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_26
+[2023.12.25-06.13.36:464][963]EditorErrors: New page: 액터 어태치먼트
+[2023.12.25-06.13.45:900][995]EditorErrors: New page: 액터 어태치먼트
+[2023.12.25-06.14.59:891][843]EditorErrors: New page: 액터 어태치먼트
+[2023.12.25-06.17.44:057][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.12.25-06.17.44:086][824]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0
+[2023.12.25-06.17.44:086][824]LogSavePackage: Moving 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Minimal_Default_Auto0E7B36DC6414A8B6285288EAE20ABDCF0.tmp' to 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.umap'
+[2023.12.25-06.17.44:087][824]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.umap is in the /Temp path, will not scan.
+[2023.12.25-06.17.44:087][824]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0 is in the /Temp path, will not scan.
+[2023.12.25-06.17.44:087][824]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0 is in the /Temp path, will not scan.
+[2023.12.25-06.17.44:087][824]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.037
+[2023.12.25-06.17.44:087][824]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2023.12.25-06.27.33:998][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.12.25-06.27.33:998][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.12.25-06.27.33:998][280]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_27
+[2023.12.25-06.28.04:334][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.12.25-06.28.04:364][  7]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1
+[2023.12.25-06.28.04:364][  7]LogSavePackage: Moving 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Minimal_Default_Auto1249E07774C8D61ACF7F13A8CCAFD7DD9.tmp' to 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2023.12.25-06.28.04:365][  7]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap is in the /Temp path, will not scan.
+[2023.12.25-06.28.04:366][  7]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.040
+[2023.12.25-06.28.04:366][  7]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2023.12.25-06.32.12:974][173]EditorErrors: New page: 액터 어태치먼트
+[2023.12.25-06.32.16:168][286]Cmd: DELETE
+[2023.12.25-06.32.16:168][286]Cmd: ACTOR DELETE
+[2023.12.25-06.32.16:176][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.25-06.32.16:197][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.12.25-06.32.16:202][286]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2023.12.25-06.32.20:935][603]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.12.25-06.32.20:935][603]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.12.25-06.32.20:935][603]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_28
+[2023.12.25-06.32.22:932][808]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.12.25-06.32.22:932][808]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.12.25-06.32.22:932][808]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_29
+[2023.12.25-06.38.04:479][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.12.25-06.38.04:505][215]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2
+[2023.12.25-06.38.04:506][215]LogSavePackage: Moving 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Minimal_Default_Auto2A84229724A80386793C49998CD3071AC.tmp' to 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2023.12.25-06.38.04:507][215]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap is in the /Temp path, will not scan.
+[2023.12.25-06.38.04:507][215]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.039
+[2023.12.25-06.38.04:507][215]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2023.12.25-06.51.32:121][ 70]LogDerivedDataCache: C:/Users/kmgmg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.066 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1436 files in 2404 folders with total size 89 MiB.
+[2023.12.25-07.00.40:989][514]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.12.25-07.00.40:993][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.25-07.00.40:993][514]PIE: New page: PIE 세션: Minimal_Default (2023. 12. 26. 오전 1:00:40)
+[2023.12.25-07.00.41:014][514]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.12.25-07.00.41:020][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006586s)
+[2023.12.25-07.00.41:020][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006636s)
+[2023.12.25-07.00.41:029][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.12.25-07.00.41:031][514]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.25-07.00.41:031][514]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.25-07.00.41:031][514]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.12.25-07.00.41:032][514]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2023.12.25-07.00.41:032][514]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.12.25-07.00.41:032][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.25-07.00.41:032][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.25-07.00.41:032][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.25-07.00.41:032][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.25-07.00.41:032][514]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.25-07.00.41:032][514]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.25-07.00.41:032][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.25-07.00.41:032][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.25-07.00.41:032][514]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.25-07.00.41:032][514]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.25-07.00.41:032][514]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.25-07.00.41:033][514]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.25-07.00.41:070][514]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek USB2.0 Audio)
+[2023.12.25-07.00.41:070][514]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.25-07.00.41:070][514]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.25-07.00.41:070][514]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.25-07.00.41:071][514]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2023.12.25-07.00.41:071][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2023.12.25-07.00.41:072][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2023.12.25-07.00.41:072][514]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2023.12.25-07.00.41:072][514]LogInit: FAudioDevice initialized with ID 41.
+[2023.12.25-07.00.41:072][514]LogAudio: Display: Audio Device (ID: 41) registered with world 'Minimal_Default'.
+[2023.12.25-07.00.41:072][514]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2023.12.25-07.00.41:078][514]LogLoad: Game class is 'GameModeBase'
+[2023.12.25-07.00.41:079][514]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.12.25-16.00.41
+[2023.12.25-07.00.41:079][514]LogWorld: Bringing up level for play took: 0.001634
+[2023.12.25-07.00.41:081][514]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.12.25-07.00.41:082][514]LogBlueprintUserMessages: [Minimal_Default_C_22] Hello World!
+[2023.12.25-07.00.41:082][514]LogBlueprintUserMessages: [Minimal_Default_C_22] Fuck UP
+[2023.12.25-07.00.41:082][514]PIE: 서버가 로그인했습니다.
+[2023.12.25-07.00.41:083][514]PIE: 에디터에서 플레이 총 시작 시간 0.09초입니다.
+[2023.12.25-07.00.55:276][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.25-07.00.55:276][172]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.12.25-07.00.55:276][172]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.12.25-07.00.55:276][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.25-07.00.55:279][172]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.25-07.00.55:281][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.25-07.00.55:287][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.25-07.00.55:288][172]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2023.12.25-07.00.55:288][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.12.25-07.00.55:289][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.12.25-07.00.55:294][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.12.25-07.00.55:351][173]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.12.25-07.01.05:880][286]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.12.25-07.01.05:883][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.25-07.01.05:883][286]PIE: New page: PIE 세션: Minimal_Default (2023. 12. 26. 오전 1:01:05)
+[2023.12.25-07.01.05:913][286]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.12.25-07.01.05:920][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005844s)
+[2023.12.25-07.01.05:920][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005889s)
+[2023.12.25-07.01.05:930][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.12.25-07.01.05:931][286]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.25-07.01.05:931][286]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.25-07.01.05:931][286]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.12.25-07.01.05:932][286]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2023.12.25-07.01.05:932][286]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.12.25-07.01.05:932][286]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.25-07.01.05:932][286]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.25-07.01.05:932][286]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.25-07.01.05:932][286]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.25-07.01.05:932][286]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.25-07.01.05:932][286]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.25-07.01.05:932][286]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.25-07.01.05:932][286]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.25-07.01.05:932][286]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.25-07.01.05:932][286]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.25-07.01.05:932][286]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.25-07.01.05:934][286]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.25-07.01.05:970][286]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek USB2.0 Audio)
+[2023.12.25-07.01.05:970][286]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.25-07.01.05:970][286]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.25-07.01.05:970][286]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.25-07.01.05:975][286]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2023.12.25-07.01.05:975][286]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2023.12.25-07.01.05:976][286]LogInit: FAudioDevice initialized with ID 42.
+[2023.12.25-07.01.05:976][286]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2023.12.25-07.01.05:976][286]LogAudio: Display: Audio Device (ID: 42) registered with world 'Minimal_Default'.
+[2023.12.25-07.01.05:976][286]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2023.12.25-07.01.05:976][286]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2023.12.25-07.01.05:978][286]LogLoad: Game class is 'GameModeBase'
+[2023.12.25-07.01.05:980][286]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.12.25-16.01.05
+[2023.12.25-07.01.05:980][286]LogWorld: Bringing up level for play took: 0.001496
+[2023.12.25-07.01.05:982][286]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.12.25-07.01.05:983][286]LogBlueprintUserMessages: [Minimal_Default_C_22] Hello World!
+[2023.12.25-07.01.05:983][286]LogBlueprintUserMessages: [Minimal_Default_C_22] Fuck UP
+[2023.12.25-07.01.05:983][286]PIE: 서버가 로그인했습니다.
+[2023.12.25-07.01.05:984][286]PIE: 에디터에서 플레이 총 시작 시간 0.1초입니다.
+[2023.12.25-07.01.13:144][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.25-07.01.13:144][111]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.12.25-07.01.13:144][111]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.12.25-07.01.13:144][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.25-07.01.13:147][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.25-07.01.13:149][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.25-07.01.13:158][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.25-07.01.13:158][111]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2023.12.25-07.01.13:158][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.12.25-07.01.13:160][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.12.25-07.01.13:165][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.12.25-07.01.13:214][112]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.12.25-07.01.22:303][182]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.12.25-07.01.22:306][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.25-07.01.22:306][182]PIE: New page: PIE 세션: Minimal_Default (2023. 12. 26. 오전 1:01:22)
+[2023.12.25-07.01.22:334][182]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.12.25-07.01.22:341][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006214s)
+[2023.12.25-07.01.22:341][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006252s)
+[2023.12.25-07.01.22:346][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.12.25-07.01.22:347][182]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.25-07.01.22:347][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.25-07.01.22:347][182]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.12.25-07.01.22:348][182]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2023.12.25-07.01.22:348][182]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.12.25-07.01.22:348][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.25-07.01.22:348][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.25-07.01.22:348][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.25-07.01.22:348][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.25-07.01.22:348][182]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.25-07.01.22:348][182]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.25-07.01.22:348][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.25-07.01.22:348][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.25-07.01.22:348][182]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.25-07.01.22:348][182]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.25-07.01.22:348][182]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.25-07.01.22:350][182]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.25-07.01.22:385][182]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek USB2.0 Audio)
+[2023.12.25-07.01.22:385][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.25-07.01.22:385][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.25-07.01.22:385][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.25-07.01.22:386][182]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2023.12.25-07.01.22:386][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2023.12.25-07.01.22:387][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2023.12.25-07.01.22:387][182]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2023.12.25-07.01.22:387][182]LogInit: FAudioDevice initialized with ID 43.
+[2023.12.25-07.01.22:387][182]LogAudio: Display: Audio Device (ID: 43) registered with world 'Minimal_Default'.
+[2023.12.25-07.01.22:387][182]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2023.12.25-07.01.22:390][182]LogLoad: Game class is 'GameModeBase'
+[2023.12.25-07.01.22:391][182]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.12.25-16.01.22
+[2023.12.25-07.01.22:391][182]LogWorld: Bringing up level for play took: 0.001740
+[2023.12.25-07.01.22:394][182]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.12.25-07.01.22:394][182]LogBlueprintUserMessages: [Minimal_Default_C_22] Hello World!
+[2023.12.25-07.01.22:394][182]LogBlueprintUserMessages: [Minimal_Default_C_22] Fuck UP
+[2023.12.25-07.01.22:395][182]PIE: 서버가 로그인했습니다.
+[2023.12.25-07.01.22:395][182]PIE: 에디터에서 플레이 총 시작 시간 0.089초입니다.
+[2023.12.25-07.04.34:584][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.25-07.04.34:584][204]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.12.25-07.04.34:584][204]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.12.25-07.04.34:585][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.25-07.04.34:588][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.25-07.04.34:593][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.25-07.04.34:601][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.25-07.04.34:601][204]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2023.12.25-07.04.34:601][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.12.25-07.04.34:602][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.12.25-07.04.34:609][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.12.25-07.04.34:660][205]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.12.25-07.04.59:348][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.12.25-07.04.59:378][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3
+[2023.12.25-07.04.59:378][407]LogSavePackage: Moving 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Minimal_Default_Auto3D902D1B94D28E9A23CD649BDA8CEB20C.tmp' to 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2023.12.25-07.04.59:379][407]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap is in the /Temp path, will not scan.
+[2023.12.25-07.04.59:379][407]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.040
+[2023.12.25-07.04.59:379][407]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
