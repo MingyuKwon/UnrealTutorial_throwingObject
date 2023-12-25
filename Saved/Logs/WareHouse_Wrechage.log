@@ -4320,3 +4320,63 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.12.25-05.19.40:278][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
 [2023.12.25-05.19.40:282][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
 [2023.12.25-05.19.40:338][633]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.12.25-05.25.59:546][174]LogViewport: Scene viewport resized to 1424x813, mode Windowed.
+[2023.12.25-05.26.39:986][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.12.25-05.26.40:005][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6
+[2023.12.25-05.26.40:005][641]LogSavePackage: Moving 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Minimal_Default_Auto6695EE0C34A902656A6905EB60BA680BB.tmp' to 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6.umap'
+[2023.12.25-05.26.40:006][641]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6.umap is in the /Temp path, will not scan.
+[2023.12.25-05.26.40:006][641]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6 is in the /Temp path, will not scan.
+[2023.12.25-05.26.40:006][641]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6 is in the /Temp path, will not scan.
+[2023.12.25-05.26.40:006][641]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.029
+[2023.12.25-05.26.40:006][641]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2023.12.25-05.27.11:912][418]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.12.25-05.27.14:162][640]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.12.25-05.29.36:960][579]Cmd: TRANSACTION UNDO
+[2023.12.25-05.29.36:960][579]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2023.12.25-05.30.04:074][235]Cmd: EDIT COPY
+[2023.12.25-05.30.04:364][266]Cmd: EDIT PASTE
+[2023.12.25-05.31.41:605][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.25-05.31.41:675][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.12.25-05.31.41:695][580]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.12.25-05.31.41:695][580]LogSavePackage: Moving 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Minimal_DefaultF2836D024FF15D37842DFF96944796F0.tmp' to 'D:/Unreal/Tutorial/WareHouse_Wrechage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.12.25-05.31.41:701][580]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2023.12.25-05.31.41:701][580]LogFileHelpers: Saving map 'Minimal_Default' took 0.043
+[2023.12.25-05.31.41:707][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 2.46 sec)
+[2023.12.25-05.31.41:709][580]AssetCheck: New page: 에셋 저장:  Minimal_Default
+[2023.12.25-05.31.41:709][580]LogContentValidation: Display: /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default 유효성 검사 중
+[2023.12.25-05.33.08:785][976]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.12.25-05.33.52:379][782]Cmd: EDIT COPY
+[2023.12.25-05.33.52:666][814]Cmd: EDIT PASTE
+[2023.12.25-05.34.01:608][752]Cmd: EDIT COPY
+[2023.12.25-05.34.01:941][788]Cmd: EDIT PASTE
+[2023.12.25-05.34.05:452][167]Cmd: EDIT COPY
+[2023.12.25-05.34.05:785][205]Cmd: EDIT PASTE
+[2023.12.25-05.34.08:788][527]Cmd: EDIT COPY
+[2023.12.25-05.34.09:055][545]Cmd: EDIT PASTE
+[2023.12.25-05.34.12:154][837]Cmd: EDIT COPY
+[2023.12.25-05.34.12:408][849]Cmd: EDIT PASTE
+[2023.12.25-05.34.20:012][701]Cmd: EDIT COPY
+[2023.12.25-05.34.20:397][744]Cmd: EDIT PASTE
+[2023.12.25-05.34.27:965][525]Cmd: EDIT COPY
+[2023.12.25-05.34.28:192][536]Cmd: EDIT PASTE
+[2023.12.25-05.34.29:382][630]Cmd: TRANSACTION UNDO
+[2023.12.25-05.34.29:382][630]LogEditorTransaction: Undo 붙여넣기
+[2023.12.25-05.34.29:896][638]Cmd: TRANSACTION UNDO
+[2023.12.25-05.34.29:896][638]LogEditorTransaction: Undo 엘리먼트 이동
+[2023.12.25-05.34.34:225][ 84]Cmd: DELETE
+[2023.12.25-05.34.34:225][ 84]Cmd: ACTOR DELETE
+[2023.12.25-05.34.34:228][ 84]LogEditorActor: Deleted Actor: Brush
+[2023.12.25-05.34.34:237][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.12.25-05.34.34:244][ 84]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.12.25-05.34.37:855][475]Cmd: EDIT COPY
+[2023.12.25-05.34.49:942][677]Cmd: EDIT COPY
+[2023.12.25-05.34.50:335][719]Cmd: EDIT PASTE
+[2023.12.25-05.35.29:399][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.25-05.35.29:463][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.12.25-05.35.29:490][758]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.12.25-05.35.29:490][758]LogSavePackage: Moving 'D:/Unreal/Tutorial/WareHouse_Wrechage/Saved/Minimal_Default0DCDE86C400DFCA368D6118AA51329FC.tmp' to 'D:/Unreal/Tutorial/WareHouse_Wrechage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.12.25-05.35.29:498][758]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2023.12.25-05.35.29:498][758]LogFileHelpers: Saving map 'Minimal_Default' took 0.051
+[2023.12.25-05.35.29:508][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 2.57 sec)
+[2023.12.25-05.35.29:510][758]AssetCheck: New page: 에셋 저장:  Minimal_Default
+[2023.12.25-05.35.29:510][758]LogContentValidation: Display: /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default 유효성 검사 중
